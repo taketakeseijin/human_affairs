@@ -1,0 +1,9 @@
+,T0,T1,T2,T3,T4,T5,T6,T7
+D0,(),(),(),(),(),(),('Mem1' /  'Mem2' /  'Mem3' /  'Mem6' /  'Mem9'),('Mem0' /  'Mem4' /  'Mem5' /  'Mem7' /  'Mem8')
+D1,(),(),(),(),(),(),('Mem0' /  'Mem4' /  'Mem5' /  'Mem7' /  'Mem8'),('Mem1' /  'Mem2' /  'Mem3' /  'Mem6' /  'Mem9')
+D2,('Mem0' /  'Mem2' /  'Mem4' /  'Mem8' /  'Mem9'),('Mem1' /  'Mem3' /  'Mem5' /  'Mem6' /  'Mem7'),(),(),(),(),(),()
+D3,('Mem1' /  'Mem3' /  'Mem5' /  'Mem6' /  'Mem7'),('Mem0' /  'Mem2' /  'Mem4' /  'Mem8' /  'Mem9'),(),(),(),(),(),()
+D4,(),(),('Mem0' /  'Mem2' /  'Mem5' /  'Mem6' /  'Mem9'),('Mem1' /  'Mem3' /  'Mem4' /  'Mem7' /  'Mem8'),(),(),(),()
+D5,(),(),('Mem1' /  'Mem3' /  'Mem4' /  'Mem7' /  'Mem8'),('Mem0' /  'Mem2' /  'Mem5' /  'Mem6' /  'Mem9'),(),(),(),()
+D6,(),(),(),(),('Mem2' /  'Mem3' /  'Mem4' /  'Mem6' /  'Mem7'),('Mem0' /  'Mem1' /  'Mem5' /  'Mem8' /  'Mem9'),(),()
+D7,(),(),(),(),('Mem0' /  'Mem1' /  'Mem5' /  'Mem8' /  'Mem9'),('Mem2' /  'Mem3' /  'Mem4' /  'Mem6' /  'Mem7'),(),()

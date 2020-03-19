@@ -1,0 +1,9 @@
+,T0,T1,T2,T3,T4,T5,T6,T7
+D0,(),('Mem0' /  'Mem1' /  'Mem12' /  'Mem18'),('Mem5' /  'Mem9' /  'Mem10' /  'Mem17'),('Mem2' /  'Mem14' /  'Mem19' /  'Mem20'),('Mem7' /  'Mem8' /  'Mem11' /  'Mem15' /  'Mem16'),('Mem3' /  'Mem4' /  'Mem6' /  'Mem13'),(),()
+D1,('Mem13' /  'Mem14' /  'Mem16' /  'Mem18'),(),('Mem2' /  'Mem4' /  'Mem11' /  'Mem15' /  'Mem20'),('Mem0' /  'Mem5' /  'Mem6' /  'Mem8'),('Mem3' /  'Mem9' /  'Mem12' /  'Mem19'),('Mem1' /  'Mem7' /  'Mem10' /  'Mem17'),(),()
+D2,(),(),(),('Mem7' /  'Mem9' /  'Mem10' /  'Mem17'),('Mem2' /  'Mem6' /  'Mem13' /  'Mem20'),('Mem0' /  'Mem8' /  'Mem11' /  'Mem14' /  'Mem19'),('Mem3' /  'Mem4' /  'Mem12' /  'Mem16'),('Mem1' /  'Mem5' /  'Mem15' /  'Mem18')
+D3,(),(),('Mem3' /  'Mem7' /  'Mem12' /  'Mem14'),(),('Mem1' /  'Mem4' /  'Mem5' /  'Mem10'),('Mem2' /  'Mem15' /  'Mem16' /  'Mem20'),('Mem0' /  'Mem8' /  'Mem9' /  'Mem17' /  'Mem18'),('Mem6' /  'Mem11' /  'Mem13' /  'Mem19')
+D4,('Mem0' /  'Mem4' /  'Mem10' /  'Mem11'),('Mem6' /  'Mem15' /  'Mem16' /  'Mem17' /  'Mem19'),(),(),(),('Mem5' /  'Mem9' /  'Mem12' /  'Mem18'),('Mem1' /  'Mem2' /  'Mem13' /  'Mem14'),('Mem3' /  'Mem7' /  'Mem8' /  'Mem20')
+D5,('Mem1' /  'Mem3' /  'Mem6' /  'Mem15'),('Mem4' /  'Mem8' /  'Mem13' /  'Mem20'),(),(),('Mem0' /  'Mem14' /  'Mem17' /  'Mem18'),(),('Mem5' /  'Mem7' /  'Mem11' /  'Mem19'),('Mem2' /  'Mem9' /  'Mem10' /  'Mem12' /  'Mem16')
+D6,('Mem7' /  'Mem8' /  'Mem9' /  'Mem20'),('Mem2' /  'Mem3' /  'Mem5' /  'Mem10'),('Mem6' /  'Mem16' /  'Mem18' /  'Mem19'),('Mem1' /  'Mem11' /  'Mem12' /  'Mem13' /  'Mem15'),(),(),(),('Mem0' /  'Mem4' /  'Mem14' /  'Mem17')
+D7,('Mem2' /  'Mem5' /  'Mem12' /  'Mem17' /  'Mem19'),('Mem7' /  'Mem9' /  'Mem11' /  'Mem14'),('Mem0' /  'Mem1' /  'Mem8' /  'Mem13'),('Mem3' /  'Mem4' /  'Mem16' /  'Mem18'),(),(),('Mem6' /  'Mem10' /  'Mem15' /  'Mem20'),()
